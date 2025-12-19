@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ブランケット",
+  "base_artist": "菅原圭",
+  "createdAt": "2025-12-19T11:04:14.518118Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ブランケット",
+      "artist": "Kei Sugawara",
+      "has_synced": true,
+      "path": "select/01_ブランケット_Kei_Sugawara.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ブランケット",
+      "artist": "平井堅",
+      "has_synced": true,
+      "path": "select/02_ブランケット_平井堅.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ブランケット",
+      "artist": "菅原 圭",
+      "has_synced": false,
+      "path": "select/pl_01_ブランケット_菅原_圭.txt"
+    }
+  ]
+}
